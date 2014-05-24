@@ -12,6 +12,12 @@
       "version":"1.3",
       "desc":"【About bter】Bter.com is maintained and operated by who have successfully maintained a number of websites, over the past few years. Bter is secured by > SSL safe connection > Web Application Firewall (WAF) > Manually confirmed withdrawal > Google TOTP Two-factor Authentication. We are doing everything we can to provide our users the safest, most efficient and user friendly exchange platform possible.【Key feature】1, Query to check the market for anytime and anywhere, market depth and history; ",
       "appid":"788952952"
+    },
+    {
+      "name":"Mine Sweeping",
+      "version":"1.0",
+      "desc":"Features:Charming Rock Sound Effect,Smoother Gameplay,Better User Interface,Game Center Support,Social Share Support.Watch your step, DON'T TOUCH ANY MINE TILE. This is the core rule in this additive game.Is it easy? Everyone can handle it, but not everyone can handle it well. What about you?There are five modes in the game: -Classic mode, get 50 red circle tiles as soon as possible. -Arcade mode, try your best to tap the red circle tiles as many as you can, and do not miss one. -Buddhist mode, try your best to tap the red circle tiles as many as you can in 30 seconds. -Speed mode, another Arcade mode with no upper speed limited. -Relay mode, complete 50 tiles in 12 seconds, then you' ll get 12 more seconds for another 50 tiles.",
+      "appid":"879825442"
     }
   ]
 }
