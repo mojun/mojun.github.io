@@ -14,3 +14,5 @@ AppRecommend
 "image":"866540671_image.png"
 
 792974333 ---> Cryptsy
+805482909 ---> Cryptsy HD
+822431295 ---> 孕妇宝典
