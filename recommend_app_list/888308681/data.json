@@ -2,6 +2,13 @@
   "status":"1",
   "data":[
     {
+      "name":"Cryptsy",
+      "version":"2.3",
+      "desc":"1.You can trade in Cryptsy app.Place Order, Cancel Order and Query Order Etc;\n 2.Query cryptsy coin price;
+      \n3.Query dogecoin price of cryptsy,virurex,bter;\n4.Login with your Cryptsy Account with you API Key And Secret Key. ",
+      "appid":"792974333"
+    },
+    {
       "name":"English Learning",
       "version":"1.0",
       "desc":"English Learning",
